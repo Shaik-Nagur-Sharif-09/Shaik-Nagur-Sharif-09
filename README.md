@@ -1,225 +1,263 @@
-<!--
-  ✨ GitHub Profile README for Shaik Nagur Sharif ✨
-  Update the [square-bracket] style placeholders and links below as needed.
--->
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A1B26&height=180&section=header&text=Shaik%20Nagur%20Sharif&fontSize=42&fontColor=7AA2F7&animation=fadeIn&fontAlignY=38&desc=MCA%20Fresher%20%7C%20Java%20%26%20Python%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18&descColor=C0CAF5" alt="header banner"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B26&height=180&section=header&text=Shaik%20Nagur%20Sharif&fontSize=42&fontColor=7AA2F7&fontAlignY=32&desc=MCA%20Fresher%20%7C%20Java%20%26%20Python%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=51&descAlign=50&descColor=C0CAF5&animation=twinkling" width="100%"/>
 
-<h3 align="center">MCA Fresher | Java & Python Developer | AI/ML Enthusiast</h3>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=600&lines=Motivated+MCA+Fresher;Java+%7C+Python+%7C+Machine+Learning;Seeking+Entry-Level+Software+%2F+ML+Roles;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nagur-sharif-shaik-23b8b3315" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" />
-  </a>
-  <a href="mailto:shaiknagursharif19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1A1B26?style=for-the-badge&logo=gmail&logoColor=F7768E" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/Sk_Nagur_Sharif" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-1A1B26?style=for-the-badge&logo=hackerrank&logoColor=9ECE6A" />
-  </a>
-  <a href="https://github.com/Shaik-Nagur-Sharif-09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=C0CAF5" />
-  </a>
-  <a href="https://x.com/___Sharif__09" target="_blank">
-    <img src="https://img.shields.io/badge/X-1A1B26?style=for-the-badge&logo=x&logoColor=BB9AF7" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B26)](https://www.linkedin.com/in/nagur-sharif-shaik-23b8b3315)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B26)](mailto:shaiknagursharif19@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-View_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1A1B26)](https://www.hackerrank.com/profile/Sk_Nagur_Sharif)
+[![X](https://img.shields.io/badge/X-Follow-1A1B26?style=for-the-badge&logo=x&logoColor=BB9AF7)](https://x.com/___Sharif__09)
+
+<img src="https://komarev.com/ghpvc/?username=Shaik-Nagur-Sharif-09&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile views" />
+
+</div>
 
 ---
 
-## 🧠 About Me
+## 🎯 About Me
 
-Motivated MCA fresher with strong knowledge of **Java, Python, and AI technologies**, seeking an entry-level position where I can apply my technical skills, learn continuously, and contribute to the development of efficient and scalable software solutions.
+```typescript
+const sharif = {
+    location: "Chennupalli, Andhra Pradesh, India 🇮🇳",
+    education: "MCA - Final Year @ Aditya University, Surampalem",
+    role: "MCA Fresher | Java & Python Developer | AI/ML Enthusiast",
+    currentFocus: [
+        "Advanced Machine Learning & Deep Learning",
+        "React.js & Modern Web Development",
+        "Cloud Fundamentals (AWS)"
+    ],
+    passion: ["Machine Learning", "Web Development", "Open Source"],
+    superpower: "Quick Learner + Consistent Effort",
+    motto: "Learn continuously, build efficiently, grow steadily 🚀",
+    lookingFor: [
+        "Entry-Level Java Engineer Roles",
+        "AI / Machine Learning Engineer Roles",
+        "Entry-Level Software Development Roles",
+        "Internships & Collaborations",
+        "Open Source Contributions"
+    ]
+};
+```
 
-- 📍 Based in Chennupalli, Andhra Pradesh, India
-- 🎓 Currently pursuing **MCA** at Aditya University, Surampalem
-- 💼 Gained hands-on experience through **Java, AI/ML, and Front-End Development internships**
-- 🌱 Interests: Machine Learning, Web Development, Open Source
+### 🚀 What Drives Me
 
-### 🎯 Career Objective
+- 🤖 **AI/ML Enthusiast** - Built adaptive learning systems and trained ML models hands-on
+- 💻 **Full-Stack Curious** - Comfortable across Java backend and React front-end
+- 📚 **Fast Learner** - 15+ certifications and 5 internships completed as a fresher
+- 🧩 **Problem Solver** - Verified coding skills on HackerRank (Java 2★, SQL 3★)
+- 🎯 **Detail-Oriented** - Committed to writing clean, scalable, maintainable code
+- 🌱 **Always Growing** - Actively exploring AWS, advanced ML, and modern web stacks
 
-MCA candidate with hands-on experience across **Java, AI/ML, and front-end development internships**, having built responsive web applications and machine learning models from the ground up. Proficient in **Java, Python, SQL, JavaScript, HTML/CSS, and Git**, with verified coding proficiency on HackerRank (Java 2★, SQL 3★). As a fresher, I bring a strong foundation, genuine curiosity, and the discipline to learn fast — looking for an entry-level **Software Development or Machine Learning** role where I can contribute to building clean, scalable, real-world solutions while growing under experienced mentorship.
+---
 
-### 🎓 Education
+## 🎓 Education
 
 | Degree | Institution | Duration | Score |
 |---|---|---|---|
-| Master of Computer Applications (MCA) | Aditya University (Aditya College of Engineering & Technology), Surampalem | Aug 2024 – Apr 2026 | 82.30% |
+| Master of Computer Applications (MCA) | Aditya University, Surampalem | Aug 2024 – Apr 2026 | 82.30% |
 | Bachelor of Science (Computer Science) | DRNSCVS Degree College, Chilakaluripet | Aug 2021 – Apr 2024 | 87.20% |
 | Intermediate (MPC) | Board of Intermediate Education, Ballikurava | Jun 2019 – Mar 2021 | 83.6% |
 | SSC | Board of Secondary Education, Ballikurava | Jun 2018 – Mar 2019 | 87% |
 
 > 🏅 **Aditya University accreditations:** NIRF Rank Band 151–200 • NAAC A++ Grade • NBA Tier 1 Accredited • Times Higher Education Impact Rank • i-Gauge Diamond Rated
 
-### 💼 Internship Experience
+---
+
+## 💼 Internship Experience
 
 - **Customer Support Executive** — Alldigi Tech Ltd *(Upcoming, Aug 2026 – Oct 2026)*
-  Offer accepted; onboarding scheduled to begin August 2026.
 - **Front-End Development Intern** — Squarcell Resource India Pvt Ltd (QSkill) *(Remote, Jun 1 – Jul 1, 2026)*
-  Completed a virtual internship focused on front-end development skills, hands-on tasks, and mentor-guided project work.
 - **ML Intern** — ConvalentX Technologies Pvt Ltd *(Remote, May 20 – Jun 20, 2026)*
-  Sourcing and cleaning datasets to build high-quality pipelines while developing and optimizing ML models using Python (NumPy, Pandas, Scikit-learn).
 - **AI Intern** — Skilldezire Technology Pvt Ltd *(Remote, May 2025 – Jun 2025)*
-  Prepared datasets, trained and evaluated classification and CNN-based image models using Python and ML libraries.
 - **Java Intern** — Cognifyz Technology Pvt Ltd *(Remote, Feb 2025 – Mar 2025)*
-  Implemented core Java applications using OOP principles, participated in code reviews, wrote unit tests.
-- **Customer Support Executive** — Alldigi Tech Ltd *(Upcoming, Aug 2026 – Oct 2026)*
-  Offer accepted; onboarding scheduled to begin August 2026.
 
 ---
 
-## 🛠️ Technical Skills
+## 🏆 Achievements & Recognition
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-**Frontend / Backend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
+### 🥇 Recognition & Ratings
+- 🥉 **2★ Java (Programming)** — HackerRank
+- 🥈 **3★ SQL** — HackerRank
+- 🎓 **Placement Certificate** — Alldigi Tech Ltd, recognized at Aditya University Achievers Day 2026
 
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-</p>
+</td>
+<td width="50%">
 
-**Data Science / AI**
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Mining-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Big%20Data-2C5BB4?style=flat-square" />
-</p>
+### 📜 Certifications
+- ✅ NPTEL Elite — Joy of Computing using Python
+- ✅ SkillDzire — AI Internship Completion
+- ✅ Cognifyz — Java Development Internship
+- ✅ Infosys Springboard — Introduction to Python
+- ✅ Power BI Micro Course — Skill Course
+- ✅ Microsoft Learn — Generative AI & M365 (6 certs)
 
-**Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dev%20C++-00599C?style=flat-square" />
-</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🎉 Extra-Curriculars
+- 🏆 TRiQ "Think Twice" Quiz Battle — OutThinkX
+- 🏆 TATA Crucible Campus Quiz 2025 — Unstop / Tata Group
+- 🏆 Google Gemini QuizOff 2026 — CampusCrew (Unstop)
+- 🎖️ AI Basics Webinar — evo11ve
+- 🌟 100K Milestone Community Honor — CampusCrew
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [AI-Based Adaptive Learning & Skill Recommendation System](https://github.com/Shaik-Nagur-Sharif-09/AI-Based-Adaptive-Learaning-Skill-Recommendation-System)
-An adaptive learning engine built with **Python and Machine Learning** that tracks student performance and recommends personalized content — improving engagement and learning efficiency in prototype evaluations. Implements recommendation logic, performance tracking, and evaluation metrics.
-**Tech Stack:** Python, Machine Learning
+<div align="center">
 
-### 🔹 Lingo — All-in-One Developer Tools Platform
-A unified React-based platform bringing together five essential tools so users don't have to switch between multiple websites:
-- 🌐 **Translator** — quick text translation across 15+ languages
-- 🔐 **String Generator** — secure random strings for passwords, unique IDs, and testing
-- 📱 **QR Generator** — instant QR codes from text or URLs
-- 🔑 **Password Checker** — evaluates password strength for better account security
-- 📝 **Notes** — simple note management to save and access notes anytime
+| Project | Description | Tech Stack | Repo / Demo |
+|---|---|---|---|
+| 🤖 **AI-Based Adaptive Learning & Skill Recommendation System** | Adaptive learning engine that tracks student performance and recommends personalized content | Python, Machine Learning | [View Repo](https://github.com/Shaik-Nagur-Sharif-09/AI-Based-Adaptive-Learaning-Skill-Recommendation-System) |
+| 🧰 **Lingo — All-in-One Developer Tools Platform** | Unified platform with Translator, String Generator, QR Generator, Password Checker & Notes | React, Tailwind CSS, React Router | [View Repo](https://github.com/Shaik-Nagur-Sharif-09/LingoTools) |
 
-**Tech Stack:** React, Tailwind CSS (dark-themed UI), React Router
-<!-- Add your GitHub repo link here once pushed -->
-**GitHub:** `[Add repo link]` &nbsp;|&nbsp; **Live Demo:** `[Add deployed link — e.g. Vercel/Netlify, not localhost]`
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaik-Nagur-Sharif-09&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-Nagur-Sharif-09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shaik-Nagur-Sharif-09&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shaik-Nagur-Sharif-09&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-## 🏆 Achievements & Certifications
+### Data Science / AI
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 📜 Certifications
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-- 🏅 Elite Badge — "The Joy of Computing using Python" (Score: 60%) — NPTEL / IIT Madras
-- 📜 Artificial Intelligence Internship Completion Certificate — SkillDzire Technologies Pvt Ltd
-- 📜 Java Development Internship Completion Certificate — Cognifyz Technologies
-- 📜 Introduction to Python Completion Certificate — Infosys Springboard
-- 📜 Power BI Micro Course Completion Certificate — Skill Course
-- 📜 Soft Skill (Communication) Development Program Certificate — SGBS Unnati Foundation
-- 📜 Certificate of Professional Exposure — Career Development & Industry Orientation Session, Skillfied Mentor
-- 📜 End-to-End Machine Learning Model Creation with ChatGPT — Bootcamp, NoviTech R&D Pvt Ltd
-- 📜 Microsoft Learn Certifications (6): Intro to AI Concepts • Intro to Generative AI & Agents • Intro to Microsoft 365 Core Services • Explore Microsoft 365 Administration • Explore Microsoft 365 Security Foundations • Protect & Govern Microsoft 365 Data
-
-### 🏆 Achievements
-
-- 🥉 2★ Java (Programming), 🥈 3★ SQL — HackerRank
-- 🎓 **Placement Certificate** — Placed at Alldigi Tech Ltd, recognized at Aditya University Achievers Day 2026
-
----
-
-## 🎉 Extra-Curriculars
-
-- 🏆 Certificate of Achievement — TRiQ "Think Twice" Quiz Battle, OutThinkX
-- 🏆 Certificate of Participation — TATA Crucible Campus Quiz 2025 (Unstop / Tata Group)
-- 🏆 Certificate of Participation — Google Gemini QuizOff 2026, CampusCrew (Unstop)
-- 🎖️ Certificate of Participation — AI Basics Webinar, evo11ve
-- 🌟 100K Milestone Community Honor — CampusCrew
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Analytics
 
-- Advanced Machine Learning & Deep Learning
-- React.js & Modern Web Development
-- Cloud Fundamentals (AWS)
+<div align="center">
 
-<!-- Update this list anytime with new tech you're exploring -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shaik-Nagur-Sharif-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Shaik-Nagur-Sharif-09&theme=tokyonight&hide_border=true" />
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-Nagur-Sharif-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-## 🤝 Open to Collaborate On
-
-- 🌐 Open-source projects
-- 💻 Freelance web development opportunities
-- 🤖 Machine Learning / AI research projects
-- 🚀 Startup ideas
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nagur-sharif-shaik-23b8b3315" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" />
-  </a>
-  <a href="mailto:shaiknagursharif19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1A1B26?style=for-the-badge&logo=gmail&logoColor=F7768E" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/Sk_Nagur_Sharif" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-1A1B26?style=for-the-badge&logo=hackerrank&logoColor=9ECE6A" />
-  </a>
-  <a href="https://x.com/___Sharif__09" target="_blank">
-    <img src="https://img.shields.io/badge/X-1A1B26?style=for-the-badge&logo=x&logoColor=BB9AF7" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><i>Thanks for visiting my profile — always happy to connect and collaborate! 🚀</i></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shaik-Nagur-Sharif-09&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+mindmap
+  root((Sharif's Journey))
+    Learning
+      Advanced Machine Learning
+      React.js & Modern Web Dev
+      AWS Cloud Fundamentals
+    Building
+      AI/ML Projects
+      Full-Stack Applications
+    Growing
+      Internship Experience
+      Certifications
+      Tech Community
+```
+
+---
+
+## 💭 Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+I'm always excited to connect with fellow developers, learn from feedback, and take on new opportunities!
+
+### 💼 Open For
+- ☕ Java Engineer / Java Developer roles
+- 🤖 AI / Machine Learning Engineer roles
+- 💻 Entry-level Software Development roles
+- 🌐 Open-source contributions
+- 📚 Learning & knowledge sharing
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagur-sharif-shaik-23b8b3315)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaiknagursharif19@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-View_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Sk_Nagur_Sharif)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/___Sharif__09)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 "Learn continuously, build efficiently, grow steadily" ✨
+
+**Thanks for visiting! Let's build something amazing together 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B26&height=100&section=footer" width="100%"/>
+
+</div>
+
+<div align="center">
+
+**Made with ❤️ by Shaik Nagur Sharif**
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=MCA+Fresher;Java+%26+Python+Developer;AI%2FML+Enthusiast;Always+Learning+New+Things;Open+to+Opportunities!)
+
+*Last Updated: July 2026*
+
+</div>
