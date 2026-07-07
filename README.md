@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B26&height=180&section=header&text=Shaik%20Nagur%20Sharif&fontSize=42&fontColor=7AA2F7&fontAlignY=32&desc=MCA%20Fresher%20%7C%20Java%20%26%20Python%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=51&descAlign=50&descColor=C0CAF5&animation=twinkling" width="100%"/>
+# Shaik Nagur Sharif
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=MCA+Fresher;Java+%26+Python+Developer;AI%2FML+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -188,28 +189,25 @@ const sharif = {
 
 </div>
 
----
+<!--
+GitHub Stats/Trophies widgets removed due to a known public-service outage
+(github-readme-stats.vercel.app / github-profile-trophy.vercel.app frequently
+return broken images due to GitHub API rate-limiting on the shared instance).
+You can add them back later by pasting this once the service is stable:
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shaik-Nagur-Sharif-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shaik-Nagur-Sharif-09&show_icons=true&theme=tokyonight&hide_border=true" />
 <img width="49%" src="https://streak-stats.demolab.com?user=Shaik-Nagur-Sharif-09&theme=tokyonight&hide_border=true" />
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-Nagur-Sharif-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
 </div>
-
----
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shaik-Nagur-Sharif-09&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
+-->
+
 
 ---
 
@@ -271,7 +269,7 @@ I'm always excited to connect with fellow developers, learn from feedback, and t
 
 **Thanks for visiting! Let's build something amazing together 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B26&height=100&section=footer" width="100%"/>
+---
 
 </div>
 
