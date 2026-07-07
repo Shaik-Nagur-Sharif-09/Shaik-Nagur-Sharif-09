@@ -16,6 +16,21 @@
 
 </div>
 
+<div align="center">
+
+![Internships](https://img.shields.io/badge/Internships-5_Completed-9ECE6A?style=flat-square&labelColor=1A1B26)
+![Certifications](https://img.shields.io/badge/Certifications-15+-7AA2F7?style=flat-square&labelColor=1A1B26)
+![HackerRank](https://img.shields.io/badge/HackerRank-Java_2★_|_SQL_3★-F7768E?style=flat-square&labelColor=1A1B26)
+![Status](https://img.shields.io/badge/Status-Open_to_Work-BB9AF7?style=flat-square&labelColor=1A1B26)
+
+</div>
+
+---
+
+## 🎯 Career Objective
+
+MCA candidate with hands-on experience across **Java, AI/ML, and front-end development internships**, having built responsive web applications and machine learning models from the ground up. Proficient in **Java, Python, SQL, JavaScript, HTML/CSS, and Git**, with verified coding proficiency on HackerRank (Java 2★, SQL 3★). As a fresher, I bring a strong foundation, genuine curiosity, and the discipline to learn fast — looking for an entry-level **Java Development, Software Development, or AI/ML Engineer** role where I can contribute to building clean, scalable, real-world solutions while growing under experienced mentorship.
+
 ---
 
 ## 🎯 About Me
@@ -51,6 +66,14 @@ const sharif = {
 - 🧩 **Problem Solver** - Verified coding skills on HackerRank (Java 2★, SQL 3★)
 - 🎯 **Detail-Oriented** - Committed to writing clean, scalable, maintainable code
 - 🌱 **Always Growing** - Actively exploring AWS, advanced ML, and modern web stacks
+
+### 🤝 Soft Skills
+
+![Communication](https://img.shields.io/badge/Communication-1A1B26?style=flat-square&labelColor=1A1B26&color=7AA2F7)
+![Quick Learner](https://img.shields.io/badge/Quick_Learner-1A1B26?style=flat-square&labelColor=1A1B26&color=9ECE6A)
+![Adaptability](https://img.shields.io/badge/Adaptability-1A1B26?style=flat-square&labelColor=1A1B26&color=BB9AF7)
+![Leadership](https://img.shields.io/badge/Leadership-1A1B26?style=flat-square&labelColor=1A1B26&color=F7768E)
+![Team Player](https://img.shields.io/badge/Team_Player-1A1B26?style=flat-square&labelColor=1A1B26&color=E0AF68)
 
 ---
 
